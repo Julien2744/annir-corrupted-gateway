@@ -9,9 +9,11 @@ When installing this datapack ***Make sure it has a higher priority than the Ann
 
 ![datapack priority](https://github.com/Julien2744/annir-corrupted-gateway/blob/main/image/datapack%20priority.jpg)
 
-> **NOTE** (If you have already installed the Annihilation Recreated datapack)
->
+> NOTE (If you have already installed the Annihilation Recreated datapack)
 > This datapack will not reset the region where the previous structure was placed. And you will not be able to interact with it anymore (unless you disable the addon)
+
+> [!WARNING]
+> This datapack require a RessourecPack, you will find it on the bottom of the modrinth page of the datapack *link comming-soon*
 
 ## Features
 
