@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "obn",
+      "bab",
+      "nlo"
+    ],
+    "key": {
+      "o": {
+        "item": "minecraft:obsidian"
+      },
+      "b": {
+        "item": "minecraft:blaze_powder"
+      },
+      "n": {
+        "item": "minecraft:netherrack"
+      },
+      "a": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "l": {
+        "item": "minecraft:lava_bucket"
+      }
+    },
+    "result": {
+      "id": "minecraft:amethyst_shard",
+      "components": {
+        "minecraft:custom_model_data": 48920,
+        "minecraft:item_name": "\"Corrupted Shard\"",
+        "minecraft:rarity": "rare",
+        "minecraft:fire_resistant": {}
+      },
+      "count": 1
+    }
+  }

@@ -1,0 +1,3 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:amethyst_shard",count:1,components:{"minecraft:custom_model_data":48920}}},scores={anniR.corrupted_gateway.shard.animID=2..4}] at @s run function annihilation:annir_corrupted_gateway/item_anim/break_gateway
+
+execute as @e[type=item,nbt={Item:{id:"minecraft:amethyst_shard",count:1,components:{"minecraft:custom_model_data":48920}}},scores={anniR.corrupted_gateway.shard.animID=5}] at @s run function annihilation:annir_corrupted_gateway/item_anim/break_gateway_final

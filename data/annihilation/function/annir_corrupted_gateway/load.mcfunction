@@ -1,0 +1,1 @@
+scoreboard objectives add anniR.corrupted_gateway.shard.animID dummy

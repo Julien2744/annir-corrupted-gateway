@@ -1,0 +1,81 @@
+{
+  "temperature": 2,
+  "downfall": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 7254527,
+    "fog_color": 7014151,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "additions_sound": {
+      "sound": "minecraft:ambient.nether_wastes.additions",
+      "tick_chance": 0.0111
+    },
+    "ambient_sound": "minecraft:ambient.nether_wastes.loop",
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2,
+      "sound": "minecraft:ambient.nether_wastes.mood",
+      "tick_delay": 6000
+    },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.nether.nether_wastes"
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:flame"
+      },
+      "probability": 0.001
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:wither_skeleton",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:piglin",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:magma_cube",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "minecraft:patch_fire",
+      "annihilation:ore_magma",
+      "minecraft:red_mushroom_nether",
+      "minecraft:weeping_vines"
+    ],
+    [
+      "annihilation:lava_pond",
+      "annihilation:red_sprout",
+      "annihilation:dark_sprout",
+      "annihilation:lava_bulb",
+      "annihilation:red_lava_bulb",
+      "annihilation:corrupted_mushroom"
+    ]
+  ]
+}

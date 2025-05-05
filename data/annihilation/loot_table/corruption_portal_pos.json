@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "bonus_rolls": 0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "destination": "annihilation:corruption_portal",
+                "decoration": "minecraft:red_x",
+                "function": "minecraft:exploration_map",
+                "skip_existing_chunks": false,
+                "zoom": 1
+              }
+            ],
+            "name": "minecraft:map"
+          }
+        ],
+        "rolls": 1
+      }
+    ]
+}

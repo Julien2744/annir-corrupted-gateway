@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "annihilation:lava_flower",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 9,
+      "separation": 2,
+      "salt": 42074705
+    }
+}

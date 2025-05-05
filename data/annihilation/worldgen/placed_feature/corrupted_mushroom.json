@@ -1,0 +1,126 @@
+{
+    "feature": "annihilation:corrupted_mushroom",
+    "placement": [
+      {
+        "type": "minecraft:count",
+        "count": 116
+      },
+      {
+        "type": "minecraft:in_square"
+      },
+      {
+        "type": "minecraft:height_range",
+        "height": {
+          "type": "minecraft:uniform",
+          "max_inclusive": {
+            "below_top": 0
+          },
+          "min_inclusive": {
+            "above_bottom": 0
+          }
+        }
+      },
+      {
+        "type": "minecraft:biome"
+      },
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:all_of",
+          "predicates": [
+            {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                     0,
+                    1,
+                    0
+                  ],
+                  "blocks": "minecraft:air"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ],
+                  "blocks": "minecraft:air"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    -2,
+                    0
+                  ],
+                  "blocks": "minecraft:air"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    -3,
+                    0
+                  ],
+                  "blocks": "minecraft:air"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "offset": [
+                    0,
+                    -4,
+                    0
+                  ],
+                  "blocks": "minecraft:air"
+                }
+              ]
+            },
+            {
+              "type": "minecraft:any_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_block_tag",
+                  "offset": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "tag": "annihilation:corrupted_gateway_floor"
+                },
+                {
+                  "type": "minecraft:matching_block_tag",
+                  "offset": [
+                    -1,
+                    0,
+                    0
+                  ],
+                  "tag": "annihilation:corrupted_gateway_floor"
+                },
+                {
+                  "type": "minecraft:matching_block_tag",
+                  "offset": [
+                    0,
+                    0,
+                    1
+                  ],
+                  "tag": "annihilation:corrupted_gateway_floor"
+                },
+                {
+                  "type": "minecraft:matching_block_tag",
+                  "offset": [
+                    0,
+                    0,
+                    -1
+                  ],
+                  "tag": "annihilation:corrupted_gateway_floor"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+}
