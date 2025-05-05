@@ -7,7 +7,7 @@ This datpack is an addon to the *[Annihilation Recreated](https://github.com/Jul
 
 When installing this datapack ***Make sure it has a higher priority than the Annihilation Recreated datapack*** otherwise it will not work !
 
-<!-- priority image -->
+![datapack priority](https://github.com/Julien2744/annir-corrupted-gateway/blob/main/image/datapack%20priority.jpg)
 
 > **NOTE** (If you have already installed the Annihilation Recreated datapack)
 >
@@ -16,10 +16,12 @@ When installing this datapack ***Make sure it has a higher priority than the Ann
 ## Features
 
 To get in the dimension you will need to craft a `Corrupted Shard`
-<!-- crafting image -->
+
+![recipe](https://github.com/Julien2744/annir-corrupted-gateway/blob/main/image/corrupted_shard_crafting.jpg)
 
 Then drop the item **1 block next to a `minecraft:end_gateway`**
-<!-- drop image -->
+
+![create gateway](https://github.com/Julien2744/annir-corrupted-gateway/blob/main/image/create_corrupted-gateway.jpg)
 
 ## Know issues
 - The dimension/biome is supposed to have giant corruption spike, but I did not manage to make them generate correctly
