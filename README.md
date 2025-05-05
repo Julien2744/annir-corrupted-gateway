@@ -13,7 +13,7 @@ When installing this datapack ***Make sure it has a higher priority than the Ann
 > This datapack will not reset the region where the previous structure was placed. And you will not be able to interact with it anymore (unless you disable the addon)
 
 > [!WARNING]
-> This datapack require a ResourcePack, you will find it on the bottom of the modrinth page of the datapack [link(https://modrinth.com/datapack/annir-corrupted-gateway/version/anniR-corrupted_gateway-r1)
+> This datapack require a ResourcePack, you will find it on the bottom of the modrinth page of the datapack [link](https://modrinth.com/datapack/annir-corrupted-gateway/version/anniR-corrupted_gateway-r1)
 
 ## Features
 
