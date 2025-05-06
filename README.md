@@ -25,7 +25,11 @@ Then drop the item **1 block next to a `minecraft:end_gateway`**
 
 ![create gateway](https://github.com/Julien2744/annir-corrupted-gateway/blob/main/image/create_corrupted-gateway.jpg)
 
+After that the corrupted shard will proceed to corrupt the end_gateway and you will be able to enter the dimension.
+
+After entering the dimension you will be granted a map showing the location of a `Corruption Portal` (they are mutiple of them now)
+
 ## Know issues
 - The dimension/biome is supposed to have giant corruption spike, but I did not manage to make them generate correctly
-- Some mob doesn't spawn in the dimension/biome
+- Some mob that are supposed to spawn in the dimension/biome doesn't
 - The ambient music playing in the dimension/bime isn't the one specified
